@@ -3,7 +3,7 @@
 
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vloxin" alt="vloxin" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"></a> </p>
 
 - 💬 Ask me about **Any of my work**
 
